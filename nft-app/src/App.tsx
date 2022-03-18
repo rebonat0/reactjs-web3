@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { ChakraProvider, Text, useDisclosure, Input, InputGroup, InputRightElement, Button, Alert } from "@chakra-ui/react";
+import { ChakraProvider, Text, useDisclosure, Input, InputGroup, InputRightElement, Button } from "@chakra-ui/react";
 import theme from "./theme";
 import Layout from "./components/Layout";
 import ConnectButton from "./components/ConnectButton";
